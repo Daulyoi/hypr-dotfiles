@@ -77,7 +77,6 @@ window#waybar {
     color: @on_primary;
     background: @primary;
     border-radius: 15px;
-    min-width: 40px;
     transition: all 0.3s ease-in-out;
 }
 

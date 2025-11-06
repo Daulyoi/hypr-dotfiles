@@ -18,12 +18,12 @@
         "hyprland/workspaces",
         "custom/updates",
         "tray",
+        "custom/notification",
         "custom/empty"
     ],
     // Modules Center
     "modules-center": [
-        "clock",
-        "custom/notification",
+        "hyprland/window"
     ],
     // Modules Right    
     "modules-right": [
@@ -33,6 +33,7 @@
         "battery",
         "group/tools",
         "custom/ml4w-welcome",
+        "clock",
         "custom/exit",
     ]
 }

@@ -203,7 +203,7 @@
   },
   // Clock
   "clock": {
-        "format": "{:%a %Om/%Od/%Y - %H:%M}",
+        "format": "{:%a %Od/%Om/%Y | %H:%M}",
     "on-click": "flatpak run com.ml4w.calendar",
     "timezone": "",
     "tooltip": false
